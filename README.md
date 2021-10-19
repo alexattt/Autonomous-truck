@@ -9,6 +9,8 @@ Truck controller and camera control scripts can be found in the Assets->Scripts.
 <a href="https://ibb.co/YfxTXsS"><img src="https://i.ibb.co/0YxVKbL/neon-city3.png" alt="neon-city3" border="0"></a>
 <a href="https://ibb.co/HYpLsCM"><img src="https://i.ibb.co/d6Jsqt3/neon-city5.png" alt="neon-city5" border="0"></a>
 <h3>Demonstration video</h3>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=ueyUaU-ExYM"></a>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=ueyUaU-ExYM">
+         <img src="https://img.youtube.com/vi/ueyUaU-ExYM/0.jpg" style="width:100%;">
+      </a>
 </div>
