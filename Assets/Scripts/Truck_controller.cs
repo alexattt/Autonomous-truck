@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using Random = System.Random;
 
 
@@ -25,7 +23,7 @@ public class Truck_controller : MonoBehaviour
         front_right = GameObject.FindWithTag("front_right").GetComponent<Rigidbody>();
     }
 
-    
+
     void Update()
     {
         RaycastHit center = new RaycastHit();
