@@ -11,6 +11,6 @@ Truck controller and camera control scripts can be found in the Assets->Scripts.
 <h3>Demonstration video</h3>
 <div align="left">
       <a href="https://www.youtube.com/watch?v=ueyUaU-ExYM">
-         <img src="https://img.youtube.com/vi/ueyUaU-ExYM/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/ueyUaU-ExYM/0.jpg" style="width:70%;">
       </a>
 </div>
